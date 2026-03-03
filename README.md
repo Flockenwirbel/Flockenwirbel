@@ -18,10 +18,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Laurent-Lumiere&show_icons=true&theme=nord)
-
----
-
 ### 📫 Contact
 - 📧 [laurentlumiere1789@gmail.com] (Peu consulté)
