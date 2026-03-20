@@ -1,6 +1,6 @@
 # Ich bin Fedor
 
-*Lorenz Fedor Klemens von Vitrimont, Né libre et singulier*. Student der **Informatik** und leidenschaftlich interessiert an **Physik**.
+*Lorenz Fedor Klemens von Memel, Né libre et singulier*. Student der **Informatik** und leidenschaftlich interessiert an **Physik**.
 
 ## 🛠️Kompetenzen
 - 🇨🇳Chinesisch (Muttersprache), 🇬🇧Englisch (Fließend), 🇫🇷Französisch (en apprenant) & 🇩🇪Deutsch (Ich lerne gerade)
