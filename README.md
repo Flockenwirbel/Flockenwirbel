@@ -1,14 +1,18 @@
-# Ich bin Fedor
+## Ich bin Fedor
 
-*Lorenz Fedor Klemens von Memel, Né libre et singulier*. Student der **Informatik** und leidenschaftlich interessiert an **Physik**.
+*Lorenz Fedor Klemens von Memel, Né libre et singulier*. A CS undergraduate student in Tsinghua University.
 
-## 🛠️Kompetenzen
-- 🇨🇳Chinesisch (Muttersprache), 🇬🇧Englisch (Fließend), 🇫🇷Französisch (en apprenant) & 🇩🇪Deutsch (Ich lerne gerade)
-- `C++`, `Python`, `Rust`, `LaTeX`, mit Fokus auf Hochleistungsrechnen (HPC)
-- 🎹Klavier
-- 🐧Linux Benutzer
+---
 
-## 🏛️Über mich
-- Ein **zivilisationspessimistisch** gefärbter Denker mit ausgeprägtem Geschichtsbewusstsein und stoischer Gelassenheit
-- Physik-Einsteiger — auf dem Weg von der Intuition zur Formalität
-- Leidenschaftliche Chopin-Verehrung
+### 🛠️ Skills
+* 🇨🇳 中文 (母语), 🇬🇧 English (Fluent), 🇫🇷 Français (Intermédiaire), 🇩🇪 Deutsch (Ich lerne gerade), 🇵🇱 Polski (Uczę się)
+* `C++`, `Python`, `Rust`. Be open to learning.
+* 🎹 Piano player
+* 🐧 Linux user
+
+---
+
+### 🏛️ About Me
+* A thinker with a touch of civilizational pessimism.
+* Physics beginner — on the path from intuition to formality.
+* Passionate admirer of Chopin.
