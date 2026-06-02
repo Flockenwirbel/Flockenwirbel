@@ -32,6 +32,7 @@ A very dumb piano player, but passionate admirer of Chopin.
 
 ### 🏛️ About Me
 
+* Undergraduate of CST, Tsinghua University since 2024.
 * A thinker with a touch of civilizational pessimism.
 * Physics beginner — on the path from intuition to formality.
 * A proud old-guard. Exploiters of the world — collude!
