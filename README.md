@@ -2,7 +2,7 @@
 
 # Cześć! Jestem Fedor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
 
-*Wawrzyniec Fedor Klemenski · CS @ Tsinghua · Urodzony wolny i wyjątkowy*
+*Wawrzyniec Fedor Klemeński · CS @ Tsinghua · Urodzony wolny i wyjątkowy*
 
 </div>
 
